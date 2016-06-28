@@ -1,0 +1,17 @@
+body {
+  background-image: url("http://www.zastavki.com/pictures/originals/2014/Cartoons_Sadness_and_grief_in_the_cartoon_Kikoriki_085642_.jpg");
+  background-repeat:  no-repeat;
+background-attachment: fixed;
+  background-position: center;
+}
+
+.top-images {
+  border-color: rgba(0, 50, 190, 0.5);
+  border-width: 5px;
+  border-radius: 10px;
+  border-style: solid;
+}
+
+.transpBackground {
+  background-color: rgba(255, 255, 255, 0.5);
+}
